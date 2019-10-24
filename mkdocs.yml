@@ -1,0 +1,3 @@
+site_name: MkDocs Demo Site
+site_description: A site to test continuous deployment of MkDocs to Azure
+theme: readthedocs
